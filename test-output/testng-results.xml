@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-08-05T10:08:08Z" name="Default suite" finished-at="2018-08-05T10:08:24Z" duration-ms="16784">
+    <groups>
+    </groups>
+    <test started-at="2018-08-05T10:08:08Z" name="Default test" finished-at="2018-08-05T10:08:24Z" duration-ms="16784">
+      <class name="testcases.callingmethod">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.callingmethod@757277dc]" started-at="2018-08-05T10:08:08Z" name="setup" finished-at="2018-08-05T10:08:20Z" duration-ms="12376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Home_Page_Appear_Correct()[pri:0, instance:testcases.callingmethod@757277dc]" started-at="2018-08-05T10:08:20Z" name="test_Home_Page_Appear_Correct" finished-at="2018-08-05T10:08:24Z" duration-ms="4387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_Appear_Correct -->
+      </class> <!-- testcases.callingmethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
